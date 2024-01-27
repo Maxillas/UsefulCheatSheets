@@ -24,3 +24,15 @@ cd my_project
 git init
 ```
 Это лишь некоторые функции markdown. 
+
+# Шпаргалка git:
+
+## Команды git
+```
+git commit --ammend --no-edit 
+```
+Дополнить существующий коммит, выполняется после git add, но до git push
+```
+git commit --ammend -m 'EJI'
+```
+Изменить сообщение коммита
